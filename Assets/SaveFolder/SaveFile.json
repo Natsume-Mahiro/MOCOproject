@@ -1,0 +1,36 @@
+{
+    "intData": [
+        {
+            "MethodName": "greenMoco",
+            "i": [
+                250
+            ]
+        },
+        {
+            "MethodName": "yellowMoco",
+            "i": [
+                1
+            ]
+        },
+        {
+            "MethodName": "Score",
+            "i": [
+                100,
+                0,
+                120,
+                0,
+                0
+            ]
+        },
+        {
+            "MethodName": "Money",
+            "i": [
+                10012
+            ]
+        }
+    ],
+    "floatData": [],
+    "stringData": [],
+    "boolData": [],
+    "a": 5
+}
